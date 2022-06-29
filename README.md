@@ -4,7 +4,7 @@
 
 ### Overview of Project
 
-#### The purpose of this project is to determine if a refactored macro in VBA is quicker than the original macro. Measuring the performance of each macro will tell us which is best to use based on which macro is faster.
+#### The purpose of this project is to determine if a refactored VBA script performs more quickly than the original script. Measuring the performance of each script will tell us which is best to use and could be helpful in case large amounts of stock data need to be analyzed quickly.
 
 ### Results
 
