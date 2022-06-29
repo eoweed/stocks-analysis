@@ -11,10 +11,12 @@
 #### Based on the execution times, the refactored script is faster than the original script. The original script for 2017 data ran in about 1.035 seconds, whereas the refactored script ran in about 0.180 seconds. For 2018, the original script ran in about 1.063 seconds and the refactored script ran in about 0.242 seconds. 
 
 #### Before the script was refactored:
-#### ![BeforeRefactor2017](https://github.com/eoweed/stocks-analysis/blob/main/Resources/BeforeRefactor2017.png) ![BeforeRefactor2018](https://github.com/eoweed/stocks-analysis/blob/main/Resources/BeforeRefactor2018.png)
+#### ![BeforeRefactor2017](https://github.com/eoweed/stocks-analysis/blob/main/Resources/BeforeRefactor2017.png) 
+#### ![BeforeRefactor2018](https://github.com/eoweed/stocks-analysis/blob/main/Resources/BeforeRefactor2018.png)
 
 #### After the script was refactored:
-#### ![Refactored2017])(https://github.com/eoweed/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png) ![Refactored2018](https://github.com/eoweed/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+#### ![Refactored2017](https://github.com/eoweed/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+#### ![Refactored2018](https://github.com/eoweed/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 #### The stock performance in 2017 was better than in 2018. Most stocks in 2017 had a positive return on investment by the end of the year (as shown above in green). In 2018, there were a few stocks that did well, but most had a negative return (as shown above in red). 
 
