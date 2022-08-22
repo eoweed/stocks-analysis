@@ -32,3 +32,8 @@
 #### link: [Refactored VBA Script](https://github.com/eoweed/stocks-analysis/blob/main/VBA_Challenge.vb)
 
 #### The cons to refactoring were that it was extremely time consuming, and even though it did improve the performance speed, it is difficult to determine how useful that is unless we can compare it on a larger data set. 
+
+### Software:
+
+#### Microsoft Excel 2207
+#### Microsoft Visual Basic for Applications 7.1
